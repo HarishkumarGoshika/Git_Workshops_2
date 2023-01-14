@@ -1,3 +1,3 @@
 This is the new file created in git hub
 
-And the data entered now to pull the code to git repository
+And the data entered now to push the code to git repository
