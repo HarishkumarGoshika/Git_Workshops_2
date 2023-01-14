@@ -1,0 +1,1 @@
+This file data entered after cloning the git repository to local machine to check the pull command
